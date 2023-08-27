@@ -1,6 +1,10 @@
-# Hangman Python Game
-
-![Hangman](hangman.jpg)
+<h1 align="center">
+  Hangman
+</h1>
+<div align="center">
+  <p>A Python Game.</p>
+<img src="https://github.com/easyvansh/Hangman-Python-Game/blob/main/hangman.jpg" alt="Hangman Logo" style="width:300px; height:300px"/>
+</div>
 
 Welcome to Hangman, a classic word-guessing game implemented in Python! This game allows you to test your vocabulary and guessing skills while having fun. The game reads words from a `words.txt` file and provides you with a series of dashes representing the letters of a hidden word. Your task is to guess the letters and uncover the hidden word before running out of attempts.
 
@@ -50,5 +54,8 @@ The repository is organized as follows:
 
 You can customize the game by modifying the `words.txt` file to include your own list of words. Each word should be on a separate line.
 
+## License
+
+Hangman Python Game is licensed under the [MIT License](LICENSE).
 
 **Note:** This game was created for educational and entertainment purposes. The hangman drawing is a representation of a classic guessing game and is not intended to promote violence or harm.
